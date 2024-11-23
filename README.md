@@ -1,6 +1,6 @@
 # Micro-serviço com Spring + Oracle Cloud
 
-Microserviço completo usando Spring Boot, integrando com serviços da Oracle Cloud para armazenamento 
+Microserviço usando Spring Boot, integrando com serviços da Oracle Cloud para armazenamento 
 de objetos, arquivos e disparo de e-mails. A ideia é simular um microserviço capaz de gerar e enviar 
 relatórios por e-mail, utilizando os serviços Object Storage e Mail Delivery.
 
